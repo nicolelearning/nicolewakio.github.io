@@ -16,11 +16,11 @@ img.introduction{
   width: 200px;
   height: auto;
   transition: transform .3s;
-  float:inherit;
+  float:40px;
 
 }
 img.introduction:hover{
-  transform: scale(1.5);
+  transform: scale(1.2);
 }
 .column{
   margin:10%;
