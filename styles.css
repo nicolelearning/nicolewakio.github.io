@@ -3,8 +3,9 @@
 
 }
 h1{
-  color: #001333;
+  color: navy;
   text-decoration:underline;
+
 }
 img{
   margin: 40px;
@@ -23,8 +24,17 @@ img.introduction:hover{
   transform: scale(1.2);
 }
 .column{
-  margin:10%;
+  margin:5%;
+  padding-left:150px;
+  color: brown;
 }
 p{
   font-size: 25px;
+}
+div{
+  background-color: grey;
+}
+h2{
+  color: maroon;
+  text-decoration: underline;
 }
